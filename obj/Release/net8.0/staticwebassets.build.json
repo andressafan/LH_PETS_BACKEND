@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "CEwjBRh+N5xbSzuEFUOxGnB7RTb2M1WN0Of4TltdA5Q=",
+  "Source": "LH Pets",
+  "BasePath": "_content/LH Pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LH Pets\\wwwroot",
+      "Source": "LH Pets",
+      "ContentRoot": "C:\\Users\\Andressa\\Documents\\SENAI\\LH Pets\\wwwroot\\",
+      "BasePath": "_content/LH Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Andressa\\Documents\\SENAI\\LH Pets\\wwwroot\\index.html",
+      "SourceId": "LH Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andressa\\Documents\\SENAI\\LH Pets\\wwwroot\\",
+      "BasePath": "_content/LH Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

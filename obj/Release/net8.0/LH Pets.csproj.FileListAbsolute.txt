@@ -1,0 +1,34 @@
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\appsettings.Development.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\appsettings.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\LH Pets.staticwebassets.runtime.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\LH Pets.exe
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\LH Pets.deps.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\LH Pets.runtimeconfig.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\LH Pets.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\LH Pets.pdb
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\System.Data.SqlClient.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\LH Pets.csproj.AssemblyReference.cache
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\LH Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\LH Pets.AssemblyInfoInputs.cache
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\LH Pets.AssemblyInfo.cs
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\LH Pets.csproj.CoreCompileInputs.cache
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\LH Pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\staticwebassets\msbuild.LH Pets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\staticwebassets\msbuild.build.LH Pets.props
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.LH Pets.props
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.LH Pets.props
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\scopedcss\bundle\LH Pets.styles.css
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\LH Pets.csproj.Up2Date
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\LH Pets.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\refint\LH Pets.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\LH Pets.pdb
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\LH Pets.genruntimeconfig.cache
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Release\net8.0\ref\LH Pets.dll

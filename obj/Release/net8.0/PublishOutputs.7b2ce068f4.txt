@@ -1,0 +1,13 @@
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\LH Pets.exe
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\LH Pets.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\LH Pets.deps.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\LH Pets.runtimeconfig.json
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\LH Pets.pdb
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
