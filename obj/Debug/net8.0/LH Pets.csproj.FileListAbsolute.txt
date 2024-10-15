@@ -32,3 +32,6 @@ C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Debug\net8.0\refint\LH Pets.dll
 C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Debug\net8.0\LH Pets.pdb
 C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Debug\net8.0\LH Pets.genruntimeconfig.cache
 C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Debug\net8.0\ref\LH Pets.dll
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Debug\net8.0\LH Pets.RazorAssemblyInfo.cache
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Debug\net8.0\LH Pets.RazorAssemblyInfo.cs
+C:\Users\Andressa\Documents\SENAI\LH Pets\obj\Debug\net8.0\LH Pets.sourcelink.json
